@@ -5,6 +5,7 @@
     "website": "https://gochain.io",
     "rpc_url": "https://rpc.gochain.io",
     "testnet_url": "https://testnet-rpc.gochain.io",
-    "derivation_path": "m/44'/6060'/0'/0"
+    "derivation_path": "m/44'/6060'/0'/0",
+    "chain_id": 60
   }
 }
